@@ -7,7 +7,9 @@ Skip the skim!  Get to the gist of YouTube videos fast. An AI-powered summarizer
 <p><b>User-Friendly Interface:</b> Simple and intuitive interface for easy summarization.</p>
 
 # Installation
-<p>pip install -q transformers</p>
-<p>pip install --upgrade youtube-transcript-api</p>
-<p>pip install -q youtube_transcript_api</p>
-<p>pip install IPython</p>
+<pre>
+pip install -q transformers
+pip install --upgrade youtube-transcript-api
+pip install -q youtube_transcript_api
+pip install IPython
+</pre>
