@@ -6,7 +6,7 @@ Skip the skim!  Get to the gist of YouTube videos fast. An AI-powered summarizer
 <p><b>State-of-the-Art Summarization:</b> Utilizes Hugging Face Transformers for generating accurate and coherent summaries.</p>
 <p><b>User-Friendly Interface:</b> Simple and intuitive interface for easy summarization.</p>
 
-# Installation
+## Installation
 <pre>
 pip install -q transformers
 pip install --upgrade youtube-transcript-api
