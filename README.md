@@ -5,3 +5,9 @@ Skip the skim!  Get to the gist of YouTube videos fast. An AI-powered summarizer
 <p><b>Automatic Transcript Retrieval:</b> Fetches transcripts directly from YouTube videos.</p>
 <p><b>State-of-the-Art Summarization:</b> Utilizes Hugging Face Transformers for generating accurate and coherent summaries.</p>
 <p><b>User-Friendly Interface:</b> Simple and intuitive interface for easy summarization.</p>
+
+# Installation
+<p>pip install -q transformers</p>
+<p>pip install --upgrade youtube-transcript-api</p>
+<p>pip install -q youtube_transcript_api</p>
+<p>pip install IPython</p>
