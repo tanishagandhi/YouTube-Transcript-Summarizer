@@ -7,6 +7,10 @@ Skip the skim!  Get to the gist of YouTube videos fast. An AI-powered summarizer
 <p><b>User-Friendly Interface:</b> Simple and intuitive interface for easy summarization.</p>
 
 ## Demo:
+![WhatsApp Image 2024-06-07 at 9 21 25 PM](https://github.com/tanishagandhi/YouTube-Transcript-Summarizer/assets/152962388/f4e97950-7583-4288-b98b-1d8cde489f16)
+![WhatsApp Image 2024-06-07 at 9 23 15 PM](https://github.com/tanishagandhi/YouTube-Transcript-Summarizer/assets/152962388/0976f096-9809-4a47-a5e6-5e7f081a026a)
+![WhatsApp Image 2024-06-07 at 9 24 58 PM](https://github.com/tanishagandhi/YouTube-Transcript-Summarizer/assets/152962388/4fcf9326-3b5f-4e18-97e5-7c8e1145efcd)
+![WhatsApp Image 2024-06-07 at 9 26 29 PM](https://github.com/tanishagandhi/YouTube-Transcript-Summarizer/assets/152962388/74c3721b-8bc1-4694-88d7-b44645dfcb86)
 
 ## Installation
 <pre>
