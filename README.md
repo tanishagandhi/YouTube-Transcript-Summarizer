@@ -14,4 +14,5 @@ pip install -q transformers
 pip install --upgrade youtube-transcript-api
 pip install -q youtube_transcript_api
 pip install IPython
+pip install streamlit -q
 </pre>
